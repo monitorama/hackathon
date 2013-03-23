@@ -22,7 +22,7 @@ Make something awesome at the Monitorama 2013 Hackathon. Join our speakers and 2
 ## Present
 
 - Give a five minute lightning talk about the work you did during the day
-- Win prizes from GitHub and Fitbit
+- Impress our panel of judges and win a prize
 
 ## Awards
 

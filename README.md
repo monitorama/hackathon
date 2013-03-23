@@ -26,9 +26,4 @@ Make something awesome at the Monitorama 2013 Hackathon. Join our speakers and 2
 
 ## Awards
 
-To be considered for an award, submit your hack via GitHub as a Pull Request, new repository, or gist and link it to an issue in this repository. Our panel will choose the most practical and useful hacks. Awards include stuff:
-
-- Fitbit
-- GitHub
-- Librato
-- AppFirst
+To be considered for an award, submit your hack via GitHub as a Pull Request, new repository, or gist and link it to an issue in this repository. Our panel will choose the most practical and useful hacks. Individual winners will receive a [Fitbit device](http://fitbit.com/); team winners will share service credits for [GitHub](http://github.com/), [Librato Metrics](http://metrics.librato.com/), or [AppFirst](http://appfirst.com/).

@@ -2,6 +2,7 @@
 
 Make something awesome at the Monitorama 2013 Hackathon. Join our speakers and 200 other hackers in a day of fixing, exploring, and building. Form a team or work on your own and tell us what you did at the end of the day. We'll award the best hacks with great prizes from Github and FitBit.
 
+- [schedule](http://monitorama.com/#schedule)
 - [hacks](https://github.com/monitorama/hackathon/issues?state=open)
 
 ## Prepare

@@ -13,7 +13,7 @@ Make something awesome at the Monitorama 2013 Hackathon. Join our speakers and 2
 
 ## Hack
 
-- Form a team or work alone
+- Form a team (up to 5) or work alone
 - Check out the parallel [workshop track](http://monitorama.com/#schedule) if you need a break
 - Fix a bug, set up a new tool, or build something new
 - Deploy your work using free credits from our friends at AWS
